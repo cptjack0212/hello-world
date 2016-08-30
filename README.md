@@ -1,4 +1,4 @@
 # hello-world
 hello world program :)
 
-I'm new to programming and hoping to learn a enough to get employed and have a good job that I like.
+I'm learning programming and I want to pursue a career in it because I find the field interesting.
